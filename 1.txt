@@ -1,1 +1,4 @@
-старпер
+#showtooltip defensive stance
+/cast [stance:1/2] defensive stance
+/equipslot 16
+/equipslot 17
