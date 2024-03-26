@@ -1,4 +1,4 @@
 #showtooltip defensive stance
 /cast [stance:1/2] defensive stance
-/equipslot 16
-/equipslot 17
+/equipslot 16 ОДНОРУЧКА
+/equipslot 17 ЩИТ
